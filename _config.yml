@@ -1,0 +1,72 @@
+url: https://citelab.github.io
+# baseurl: /agency
+
+# Site settings
+title: citélab
+email: citelab@cs.mcgill.ca
+description: "Cloud, Internet of Things, and Edge computing research Lab lead by Prof. Maheswaran at McGill University located in Montreal, Canada."
+
+
+# Team names, titles and social links
+
+team:
+  - role: professor
+    people: 
+    - name: Muthucumaru Maheswaran
+      info: More info could go here...
+      pic: mahes
+      social:
+        - title: external-link
+          url: http://www.cs.mcgill.ca/~maheswar/
+
+
+  - role: phd
+    people:
+    - name: Ben Yu
+    - name: Kininyiruchi Echomgbe
+    - name: Mona Essam
+      info: Co-Supervised with Bettina Kemme
+    - name: Olamilekan Fadahunsi
+    - name: Richard Olaniyan
+
+
+  - role: masters
+    people:
+      - name: Andrew Gowing
+      - name: Robert Wenger
+      - name: Xiru Zhu
+
+  - role: undergraduate
+    people:
+      - name: Abhijit Singh
+        info: Taking 3 Masters classes
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/anrl
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: muthucumaru.maheswaran@mcgill.ca
+  - line: McConnell Engineering Building, Room 224
+  - line: 3480 University Street
+  - line: Montreal, QC, H3A 2A7 Canada
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+  - projects
+  - publications

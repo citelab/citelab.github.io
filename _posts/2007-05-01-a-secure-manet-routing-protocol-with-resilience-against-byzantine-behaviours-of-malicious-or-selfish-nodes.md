@@ -1,0 +1,8 @@
+---
+author: "C. Crepeau, C. R. Davis and M. Maheswaran"
+title: "A Secure MANET Routing Protocol with Resilience Against Byzantine Behaviours of Malicious or Selfish Nodes"
+journal: "2nd IEEE Symposium on Pervasive Computing and Ad Hoc Communications (PCAC 07)"
+location: "Vol. 02, pp. 19-26"
+date: 2007-05-01
+---
+Secure routing in mobile ad hoc networks (MANETs) has emerged as a important MANET research area. MANETs, by virtue of the fact that they are wireless networks, are more vulnerable to intrusion by malicious agents than wired networks. In wired networks, appropriate physical security measures, such as restriction of physical access to network infrastructures, can be used to attenuate the risk of intrusions. Physical security measures are less effective however in limiting access to wireless network media. Consequently, MANETs are much more susceptible to infiltration by malicious agents. Authentication mechanisms can help to prevent unauthorized access to MANETs. However, considering the high likelihood that nodes with proper authentication credentials can be taken over by malicious entities, there are needs for security protocols which allow MANET nodes to operate in potential adversarial environments. In this paper, we present a secure on-demand MANET routing protocol, we named Robust Source Routing (RSR). In addition to providing data origin authentication services and integrity checks, RSR is able to mitigate against intelligent malicious agents which selectively drop or modify packets they agreed to forward. Simulation studies confirm that RSR is capable of maintaining high delivery ratio even when a majority of the MANET nodes are malicious.

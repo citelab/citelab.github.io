@@ -1,0 +1,8 @@
+---
+author: "A. Ranjbar and M. Maheswaran"
+title: "Community-Centric Approaches for Confidentiality Management in Online Systems"
+journal: "20th IEEE International Conference Computer Communication Networks (ICCCN 2011)"
+location: "Hawaii, USA"
+date: 2011-07-01
+---
+The dominant role of social networking in the web is turning human relations into conduits for information flow. This means the way information spreads on the web is determined to a large extent by human decisions. Consequently, information security lies on the quality of decisions made by the users. Moreover, information spreading patterns rely on the collective decisions of interconnected sets of users. In this paper, we present a novel community-centric confidentiality control mechanism for information flow management on the web. We use a Monte Carlo based algorithm to determine the potential spread of a shared data object and inform the user of risk of information leakage associated with the different sharing decisions she can make in a social network. Using the information provided by our algorithm a user can curtail sharing decisions to reduce the risk of information leakage. Alternatively, our algorithm can provide input to a fully- or semi-automatic sharing decision maker that determines the outcomes of sharing requests. We used datasets from Facebook and Flickr to evaluate the performance of the proposed algorithms under different sharing conditions. The simulation results indicate that information sharing can be effectively controlled by our algorithm.
