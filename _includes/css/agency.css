@@ -325,13 +325,13 @@ section h3.section-subheading {
 }
 
 .service-heading {
-    margin: 15px 0;
+    /* margin: 15px 0; */
     text-transform: none;
 }
 
 #projects .projects-item {
     right: 0;
-    margin: 0 0 15px;
+    margin: 0 inherit 15px;
 }
 
 #projects .projects-item .projects-link {
@@ -403,7 +403,7 @@ section h3.section-subheading {
 
 @media(min-width:767px) {
     #projects .projects-item {
-        margin: 0 0 30px;
+        margin: 0 inherit 30px;
     }
 }
 
@@ -721,24 +721,28 @@ ul.social-buttons {
 }
 
 ul.social-buttons li a {
-    display: block;
-    width: 40px;
-    height: 40px;
-    border-radius: 100%;
-    font-size: 20px;
-    line-height: 40px;
-    outline: 0;
-    color: #fff;
-    background-color: #222;
-    -webkit-transition: all .3s;
-    -moz-transition: all .3s;
-    transition: all .3s;
+  display: block;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  font-size: 20px;
+  line-height: 40px;
+  outline: 0;
+  color: #fff;
+  background-color: #222;
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  transition: all .3s;
 }
 
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
     background-color: #{{ site.data.template.color.primary }};
+}
+
+ul.social-buttons li a i {
+  width: 20px;
 }
 
 .btn:focus,
@@ -839,4 +843,11 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
 }

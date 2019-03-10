@@ -14,7 +14,7 @@
                         <div class="modal-body">
                             <h2>{{ project.title }}</h2>
                             <hr class="star-primary">
-                            <img height="500" width="500" src="img/projects/{{ project.img }}" class="img-responsive img-centered" alt="{{ project.alt }}">
+                            <img height="500" width="500" src="img/projects/{% if project.img == nil %}default.png{% else %}{{ project.img }}{% endif %}" class="img-responsive img-centered" alt="{{ project.alt }}">
                             <p>{{ project.description }}</p>
                             <ul class="list-inline item-details">
                                 <li><strong><a href="{{ project.website }}">Project Website</a></strong></li>

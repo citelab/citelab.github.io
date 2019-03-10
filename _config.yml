@@ -1,22 +1,41 @@
 url: https://citelab.github.io
 # baseurl: /agency
 
+
 # Site settings
 title: citélab
 email: citelab@cs.mcgill.ca
 description: "Cloud, Internet of Things, and Edge computing research Lab lead by Prof. Maheswaran at McGill University located in Montreal, Canada."
 
 
-# Team names, titles and social links
+# Projects
+research:
+  - topic: Cloud & Fogs
+    icon: fas fa-cloud
+    description: We are investigating cloud & fog architectures for executing tasks with near real-time processing requirements. For example, managing tasks injected from vehicular systems into cloud or edge-based computing backends for processing.
 
+  - topic: Intelligent Internet of Things
+    icon: fas fa-laptop
+    description: We are working on middleware and programming frameworks for IoT that would self-organize the IoT and edge computing systems for optimal placement of task executions. We are using machine learning for optimizing handover and also data transfer with edge-based IoT.
+
+  - topic: Networking Toolkits
+    icon: fas fa-network-wired
+    description: We are implementing easy-to-use networking toolkits, high-level toolkits for experimenting with clouds, software-defined networks, and virtual network functions. This work started as a teaching toolkit and is quickly evolving as a research platform into novel distributed cloud architectures combining Clouds, SDN and NFV.
+
+  - topic: Artificial Intelligence & Machine Learning
+    icon: fab fa-connectdevelop
+    description:
+
+
+# Team names, titles and social links
 team:
   - role: professor
-    people: 
+    people:
     - name: Muthucumaru Maheswaran
       info: More info could go here...
       pic: mahes
       social:
-        - title: external-link
+        - title: external-link-alt
           url: http://www.cs.mcgill.ca/~maheswar/
 
 
@@ -39,7 +58,7 @@ team:
   - role: undergraduate
     people:
       - name: Abhijit Singh
-        info: Taking 3 Masters classes
+      - name: Trung Vuong Thien
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -52,7 +71,7 @@ social:
 #     url:
 #   - title: stack-overflow
 #     url: http://stackoverflow.com/questions/tagged/jekyll
-#   - title: bitbucket 
+#   - title: bitbucket
 #     url: http://bitbucket.org/jekyll
 
 
