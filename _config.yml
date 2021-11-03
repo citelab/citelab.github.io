@@ -38,33 +38,33 @@ team:
         - title: external-link-alt
           url: http://www.cs.mcgill.ca/~maheswar/
 
-
+  - role: post-doc
+    people:
+    - name: Saroukh Ebrahim 
+    
   - role: phd
     people:
-    - name: Ben Yu
+    - name: Fozail Ahmed
     - name: Kininyiruchi Echomgbe
-    - name: Mona Essam
-      info: Co-Supervised with Bettina Kemme
-    - name: Olamilekan Fadahunsi
-    - name: Richard Olaniyan
-
 
   - role: masters
     people:
-      - name: Andrew Gowing
-      - name: Robert Wenger
-      - name: Xiru Zhu
+      - name: Samuel Genois
+      - name: Amir Hossein Estiri
+      - name: Abhijit Roy
+      - name: Mayank Shrivastava
+      - name: Nishit Dabi
 
   - role: undergraduate
     people:
-      - name: Abhijit Singh
-      - name: Trung Vuong Thien
+      - name: Zhelin Xu
+      - name: Yuxiang Ma
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
-    url: http://github.com/anrl
+    url: http://github.com/citelab
 #   - title: twitter
 #     url: http://twitter.com/jekyllrb
 #   - title: facebook
