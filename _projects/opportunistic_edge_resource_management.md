@@ -1,5 +1,5 @@
 ---
-title: Opportunistic Edge Resource Management
+title: Space OS
 subtitle: A paper on edge computing
 layout: default
 img:
