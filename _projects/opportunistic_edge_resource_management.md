@@ -1,10 +1,10 @@
 ---
 title: Space OS
-subtitle: A paper on edge computing
+subtitle: A Spatial Operating System for the 5G Edge
 layout: default
 img:
 thumbnail:
-alt: Opportunistic Edge Resource Management
+alt: Space OS
 description:
 website: #
 
