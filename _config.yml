@@ -40,12 +40,12 @@ team:
 
   - role: post-doc
     people:
-    - name: Saroukh Ebrahim 
-    
+    - name: Sarkhouh Ebrahim 
+
   - role: phd
     people:
     - name: Fozail Ahmed
-    - name: Kininyiruchi Echomgbe
+    - name: Richboy Echomgbe
 
   - role: masters
     people:
@@ -54,11 +54,15 @@ team:
       - name: Abhijit Roy
       - name: Mayank Shrivastava
       - name: Nishit Dabi
+      - name: Tianzi Yang
 
   - role: undergraduate
     people:
       - name: Zhelin Xu
       - name: Yuxiang Ma
+      - name: Mark Kuhn
+      - name: Jianing Xu
+
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
