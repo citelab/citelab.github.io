@@ -5,7 +5,7 @@ layout: default
 img:
 thumbnail:
 alt: Space OS
-description:
+description: Some description about Space OS goes here..
 website: #
 
 ---
