@@ -1,6 +1,6 @@
 ---
 title: Air Machines
-subtitle:
+subtitle: A new machine framework
 layout: default
 img:
 thumbnail:
