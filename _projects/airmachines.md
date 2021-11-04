@@ -1,6 +1,6 @@
 ---
-title: Air Machines
-subtitle: A new machine framework
+title: Space OS
+subtitle: Spatial Operating System for the 5G Edge
 layout: default
 img:
 thumbnail:
