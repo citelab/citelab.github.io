@@ -1,5 +1,5 @@
 ---
-title: Space OS
+title: SpaceOS
 subtitle: Spatial Operating System for the 5G Edge
 layout: default
 img: spaceos.png
