@@ -1,6 +1,6 @@
 ---
 title: Opportunistic Edge Resource Management
-subtitle:
+subtitle: A paper on edge computing
 layout: default
 img:
 thumbnail:
